@@ -6,6 +6,8 @@ has_children: true
 permalink: /technology
 ---
 
+{: .no_toc }
+
 # Technology
 
 RDF machines 
@@ -27,7 +29,7 @@ RDF machines
 [![](../../assets/images/xarm.jpg)](technology/xarm6)
 
 
-## Robot End effectors
+### Robot End effectors
 
 [![](../../assets/images/mdph2.jpg)](technology/mdph2)
 [![](../../assets/images/mdpe10.jpg)](technology/mdpe10)

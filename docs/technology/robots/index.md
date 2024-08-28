@@ -7,6 +7,8 @@ permalink: /technology/robots
 has_children: true
 ---
 
+{: .no_toc }
+
 # Robots
 
 
