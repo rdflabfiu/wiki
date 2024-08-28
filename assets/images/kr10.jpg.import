@@ -10,7 +10,7 @@ metadata={
 
 [deps]
 
-source_file="res://GitHub/labwiki/assets/images/kr10.jpg"
+source_file="res://GitHub/wiki/assets/images/kr10.jpg"
 dest_files=["res://.godot/imported/kr10.jpg-967d1d3b777d4f7a3685f128141b99ae.ctex"]
 
 [params]
