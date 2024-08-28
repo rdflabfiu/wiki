@@ -1,9 +1,9 @@
 ---
-title: Technologies
+title: UI Components
 nav_order: 3
 ---
 
-# Technologies
+# UI Components
 
-Running list of Technologies and equiptment available at the RDF Lab
+To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
 {: .fs-6 .fw-300 }
