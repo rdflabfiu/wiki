@@ -1,6 +1,8 @@
 ---
-title: Robots
+title: Technology
 nav_order: 3
+has_children: true
+permalink: /technology
 ---
 
 # UI Components

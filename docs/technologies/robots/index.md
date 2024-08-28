@@ -1,7 +1,9 @@
 ---
-title: Technologies
+title: Robots
 parent: technologies
 nav_order: 3
+permalink: /technology/robots
+has_children: false
 ---
 
 # Robots
