@@ -4,7 +4,7 @@ title: Robots
 parent: Technology
 nav_order: 1
 permalink: /technology/robots
-has_children: false
+has_children: true
 ---
 
 # Robots
