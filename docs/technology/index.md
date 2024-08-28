@@ -19,7 +19,7 @@ RDF machines
 </script>
 
 ## Robots  
-[![](../../assets/images/kr10.jpg)](technology//robots/kr10)
+[![](../../assets/images/kr10.jpg)](technology/robots/kr10)
 [![](../../assets/images/kr30.jpg)](technology/kr30)
 [![](../../assets/images/ur10e.jpg)](technology/ur10e)
 [![](../../assets/images/ur16e.jpg)](technology/ur16e)
