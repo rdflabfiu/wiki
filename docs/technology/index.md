@@ -4,9 +4,9 @@ title: Technology
 nav_order: 3
 has_children: true
 permalink: /technology
+{: .no_toc }
 ---
 
-{: .no_toc }
 
 # Technology
 
