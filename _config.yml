@@ -4,6 +4,8 @@ theme: just-the-docs
 
 color_scheme: dark
 
+nav_order: 2
+
 url: https://just-the-docs.github.io
 
 aux_links:
