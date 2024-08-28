@@ -19,6 +19,8 @@ RDF machines
 </script>
 
 ## Robots  
+[Robots](https://rdflabfiu.github.io/wiki/technology/robots){: .btn }
+
 [![](../../assets/images/kr10.jpg)](technology/robots/kr10)
 [![](../../assets/images/kr30.jpg)](technology/kr30)
 [![](../../assets/images/ur10e.jpg)](technology/ur10e)
