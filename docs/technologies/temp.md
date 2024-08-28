@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How to Document
+title: Temp
 nav_order: 2
 has_children: false
 permalink: /docs/rules
