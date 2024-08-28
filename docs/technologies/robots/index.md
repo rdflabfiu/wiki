@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Robots
 parent: technologies
 nav_order: 3
