@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Temp
+title: Technology
 nav_order: 2
 has_children: false
-permalink: /docs/rules
+permalink: /temp
 ---
 # Rules and Safety Procedures for the RDF Lab
 

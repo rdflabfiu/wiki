@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Robots
-parent: technologies
+parent: technology
 nav_order: 3
 permalink: /technology/robots
 has_children: false
