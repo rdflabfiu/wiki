@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3dprinters
+title: 3D Printers
 nav_order: 2
 parent: Technology
 has_children: false

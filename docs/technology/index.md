@@ -18,7 +18,6 @@ RDF machines
     var grid = new Muuri('.grid');
 </script>
 
-## Robots  
 [Robots](https://rdflabfiu.github.io/wiki/technology/robots){: .btn }
 
 [![](../../assets/images/kr10.jpg)](technology/robots/kr10)
@@ -26,6 +25,7 @@ RDF machines
 [![](../../assets/images/ur10e.jpg)](technology/ur10e)
 [![](../../assets/images/ur16e.jpg)](technology/ur16e)
 [![](../../assets/images/xarm.jpg)](technology/xarm6)
+
 
 ## Robot End effectors
 
@@ -36,7 +36,8 @@ RDF machines
 [![](../../assets/images/clay.jpg)](technology/clay)
 [![](../../assets/images/concrete.jpg)](technology/concrete)
 
-## 3D printers
+
+[3D Printers](https://rdflabfiu.github.io/wiki/technology/3dprinters){: .btn }
 
 [![](../../assets/images/bambu.jpg)](technology/bambu)
 [![](../../assets/images/prusa3.jpg)](technology/prusa3)
@@ -45,20 +46,24 @@ RDF machines
 [![](../../assets/images/vcore50.jpg)](technology/ratrig)
 [![](../../assets/images/bioprinter.jpg)](technology/bioprinter)
 
-## Milling and Cutting
+
+[Milling and Cutting](https://rdflabfiu.github.io/wiki/technology/robots){: .btn }
 
 [![](../../assets/images/bantam.png)](technology/bantamcnc)
 [![](../../assets/images/leadcnc.png)](technology/leadcnc)
 
 
-## AR/VR
+[AR/VR](https://rdflabfiu.github.io/wiki/technology/robots){: .btn }
 
 [![](../../assets/images/markforged.jpg)](technology/markforged)
 
-## Sensing and Scanning
+
+[Sensing and Scanning](https://rdflabfiu.github.io/wiki/technology/robots){: .btn }
+
 [![](../../assets/images/markforged.jpg)](technology/markforged)
 
-## Plastic recycling
+
+[Plastic Recycling](https://rdflabfiu.github.io/wiki/technology/robots){: .btn }
 
 [![](../../assets/images/markforged.jpg)](technology/markforged)
 [![](../../assets/images/markforged.jpg)](technology/markforged)
