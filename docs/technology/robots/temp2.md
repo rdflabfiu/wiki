@@ -2,7 +2,7 @@
 layout: default
 title: Temp2
 nav_order: 2
-parent: technology
+parent: Technology
 has_children: false
 permalink: /technology/temp2
 ---
