@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Technologies
 parent: technologies
 nav_order: 3
