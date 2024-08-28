@@ -19,44 +19,44 @@ RDF machines
 </script>
 
 ## Robots  
-[![](../../assets/images/kr10.jpg)](technologies/kr10)
-[![](../../assets/images/kr30.jpg)](technologies/kr30)
-[![](../../assets/images/ur10e.jpg)](technologies/ur10e)
-[![](../../assets/images/ur16e.jpg)](technologies/ur16e)
-[![](../../assets/images/xarm.jpg)](technologies/xarm6)
+[![](../../assets/images/kr10.jpg)](technology//robots/kr10)
+[![](../../assets/images/kr30.jpg)](technology/kr30)
+[![](../../assets/images/ur10e.jpg)](technology/ur10e)
+[![](../../assets/images/ur16e.jpg)](technology/ur16e)
+[![](../../assets/images/xarm.jpg)](technology/xarm6)
 
 ## Robot End effectors
 
-[![](../../assets/images/mdph2.jpg)](technologies/mdph2)
-[![](../../assets/images/mdpe10.jpg)](technologies/mdpe10)
-[![](../../assets/images/rgripper.jpg)](technologies/rgripper)
-[![](../../assets/images/router.jpg)](technologies/router)
-[![](../../assets/images/clay.jpg)](technologies/clay)
-[![](../../assets/images/concrete.jpg)](technologies/concrete)
+[![](../../assets/images/mdph2.jpg)](technology/mdph2)
+[![](../../assets/images/mdpe10.jpg)](technology/mdpe10)
+[![](../../assets/images/rgripper.jpg)](technology/rgripper)
+[![](../../assets/images/router.jpg)](technology/router)
+[![](../../assets/images/clay.jpg)](technology/clay)
+[![](../../assets/images/concrete.jpg)](technology/concrete)
 
 ## 3D printers
 
-[![](../../assets/images/bambu.jpg)](technologies/bambu)
-[![](../../assets/images/prusa3.jpg)](technologies/prusa3)
-[![](../../assets/images/formlab2.jpg)](technologies/formlab2)
-[![](../../assets/images/markforged.jpg)](technologies/markforged)
-[![](../../assets/images/vcore50.jpg)](technologies/ratrig)
-[![](../../assets/images/bioprinter.jpg)](technologies/bioprinter)
+[![](../../assets/images/bambu.jpg)](technology/bambu)
+[![](../../assets/images/prusa3.jpg)](technology/prusa3)
+[![](../../assets/images/formlab2.jpg)](technology/formlab2)
+[![](../../assets/images/markforged.jpg)](technology/markforged)
+[![](../../assets/images/vcore50.jpg)](technology/ratrig)
+[![](../../assets/images/bioprinter.jpg)](technology/bioprinter)
 
 ## Milling and Cutting
 
-[![](../../assets/images/bantam.png)](technologies/bantamcnc)
-[![](../../assets/images/leadcnc.png)](technologies/leadcnc)
+[![](../../assets/images/bantam.png)](technology/bantamcnc)
+[![](../../assets/images/leadcnc.png)](technology/leadcnc)
 
 
 ## AR/VR
 
-[![](../../assets/images/markforged.jpg)](technologies/markforged)
+[![](../../assets/images/markforged.jpg)](technology/markforged)
 
 ## Sensing and Scanning
-[![](../../assets/images/markforged.jpg)](technologies/markforged)
+[![](../../assets/images/markforged.jpg)](technology/markforged)
 
 ## Plastic recycling
 
-[![](../../assets/images/markforged.jpg)](technologies/markforged)
-[![](../../assets/images/markforged.jpg)](technologies/markforged)
+[![](../../assets/images/markforged.jpg)](technology/markforged)
+[![](../../assets/images/markforged.jpg)](technology/markforged)
