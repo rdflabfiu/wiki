@@ -39,24 +39,20 @@ permalink: /docs/technologies/mdph2
 | Setting                  | Value               |
 |--------------------------|---------------------|
 | Temperature              | 225°C               |
-| Bed Temperature          | 90°C                |
-| Print Surface           | PEI                  |
-| Suggested Resolution    | 0.2 - 0.3 mm        |
-| Fan Speed               | 50%                 |
-| Wall Thickness          | 1.2mm (3 lines)     |
+| Print Surface            | Blue Tape           |
+| Fan Speed                | 50%                 |
+| Layer Thickness          | 1 - 2 mm            |
 
 ### PLA
 
 | Setting                  | Value               |
 |--------------------------|---------------------|
-| Temperature              | 110°C               |
-| Bed Temperature          | 65°C                |
-| Print Surface           | PEI, Blue Tape      |
-| Suggested Resolution    | 0.2 - 0.3 mm        |
-| Fan Speed               | 100%                |
-| Wall Thickness          | 1.2mm (3 lines)     |
+| Temperature              | 210°C               |
+| Print Surface            | Blue Tape           |
+| Fan Speed                | 100%                |
+| Layer Thickness          | 1 - 2 mm            |
 
 ## Useful Links & References
 
-- [CAD Model]({{ site.baseurl }}/assets/images/MDPH2/mdph2_CAD_Model.zip)
+- [Product Website](https://massivedimension.com/products/mdphe-v1-pellet-head-extruder-system?gad_source=1&gclid=Cj0KCQjw4cS-BhDGARIsABg4_J3GbCLyfG2fg9Acol_x-nr-ZOVh-baHH5Bj0sXQyTo3b571ddoO8ekaArzmEALw_wcB)
 - [Power Supply Manual]({{ site.baseurl }}/assets/docs/MDPH2/mdph2_Power_Supply_Manual.pdf)

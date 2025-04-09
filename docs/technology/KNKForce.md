@@ -10,7 +10,14 @@ permalink: /docs/technologies/knkforce
   
 ## Location
 
-Room 131, 131A Storage
+Room 131, 131A Storage, 2 Cutters
+
+---
+
+## Technical Details
+
+**Toolheads:** 1 Blue Blade Holder, 2 Black Pen Tools
+**Max Cutting Area:** W 72.4cm, H 18.4cm, L 22.9cm
 
 ---
 
